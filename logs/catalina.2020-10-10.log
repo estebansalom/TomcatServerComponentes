@@ -1,0 +1,48 @@
+10-Oct-2020 02:32:51.777 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.58
+10-Oct-2020 02:32:51.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 10 2020 21:45:33 UTC
+10-Oct-2020 02:32:51.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.58.0
+10-Oct-2020 02:32:51.796 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+10-Oct-2020 02:32:51.799 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+10-Oct-2020 02:32:51.803 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+10-Oct-2020 02:32:51.809 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-11.0.8
+10-Oct-2020 02:32:51.810 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.8+10-LTS
+10-Oct-2020 02:32:51.812 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+10-Oct-2020 02:32:51.814 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Program Files\Tomcat\apache-tomcat-8.5.58
+10-Oct-2020 02:32:51.819 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Tomcat\apache-tomcat-8.5.58
+10-Oct-2020 02:32:51.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+10-Oct-2020 02:32:51.823 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+10-Oct-2020 02:32:51.824 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+10-Oct-2020 02:32:51.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Program Files\Tomcat\apache-tomcat-8.5.58\conf\logging.properties
+10-Oct-2020 02:32:51.827 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-Oct-2020 02:32:51.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+10-Oct-2020 02:32:51.833 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+10-Oct-2020 02:32:51.835 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+10-Oct-2020 02:32:51.837 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Program Files\Tomcat\apache-tomcat-8.5.58
+10-Oct-2020 02:32:51.838 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Tomcat\apache-tomcat-8.5.58
+10-Oct-2020 02:32:51.839 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Program Files\Tomcat\apache-tomcat-8.5.58\temp
+10-Oct-2020 02:32:51.841 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-11.0.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\cmder\vendor\conemu-maximus5\ConEmu\Scripts;C:\Program Files (x86)\cmder\vendor\conemu-maximus5;C:\Program Files (x86)\cmder\vendor\conemu-maximus5\ConEmu;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\AdoptOpenJDK\jdk-11.0.5.10-hotspot\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-11.0.8\bin;C:\Program Files\Maven\apache-maven-3.6.3\bin;C:\Program Files\Tomcat\apache-tomcat-8.5.58\bin;C:\Users\esteb\AppData\Local\Microsoft\WindowsApps;C:\Users\esteb\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.1\bin;C:\Users\esteb\AppData\Roaming\npm;C:\Users\esteb\AppData\Local\GitHubDesktop\bin;C:\Users\esteb\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;.]
+10-Oct-2020 02:32:51.995 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+10-Oct-2020 02:32:52.280 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+10-Oct-2020 02:32:52.301 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2376 ms
+10-Oct-2020 02:32:52.407 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+10-Oct-2020 02:32:52.408 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.58
+10-Oct-2020 02:32:52.437 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Tomcat\apache-tomcat-8.5.58\webapps\docs]
+10-Oct-2020 02:32:53.239 WARNING [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [245] milliseconds.
+10-Oct-2020 02:32:53.286 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Tomcat\apache-tomcat-8.5.58\webapps\docs] has finished in [850] ms
+10-Oct-2020 02:32:53.288 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Tomcat\apache-tomcat-8.5.58\webapps\examples]
+10-Oct-2020 02:32:55.063 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Tomcat\apache-tomcat-8.5.58\webapps\examples] has finished in [1,775] ms
+10-Oct-2020 02:32:55.066 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Tomcat\apache-tomcat-8.5.58\webapps\host-manager]
+10-Oct-2020 02:32:55.313 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Tomcat\apache-tomcat-8.5.58\webapps\host-manager] has finished in [246] ms
+10-Oct-2020 02:32:55.313 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Tomcat\apache-tomcat-8.5.58\webapps\manager]
+10-Oct-2020 02:32:55.398 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Tomcat\apache-tomcat-8.5.58\webapps\manager] has finished in [84] ms
+10-Oct-2020 02:32:55.400 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Tomcat\apache-tomcat-8.5.58\webapps\ROOT]
+10-Oct-2020 02:32:55.454 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Tomcat\apache-tomcat-8.5.58\webapps\ROOT] has finished in [54] ms
+10-Oct-2020 02:32:55.462 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+10-Oct-2020 02:32:55.483 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 3181 ms
+10-Oct-2020 02:33:55.606 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Program Files\Tomcat\apache-tomcat-8.5.58\webapps\generatedProject.war]
+10-Oct-2020 02:33:55.808 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Program Files\Tomcat\apache-tomcat-8.5.58\webapps\generatedProject.war] has finished in [201] ms
+10-Oct-2020 02:54:47.167 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+10-Oct-2020 02:54:47.171 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+10-Oct-2020 02:54:47.683 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+10-Oct-2020 02:54:47.790 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+10-Oct-2020 02:54:47.799 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
